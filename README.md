@@ -1,7 +1,7 @@
-# RenanSa.github.io
+# renan-sa.github.io
 ## Página pessoal do desenvolvedor
 
-A página web http://renansa.github.io foi criada para apresentar ideias e soluções que surgem durante o estudo constante que todo desenvolvedor deve fazer para manter-se atualizado e exercer bem suas atividades.
+A página web http://renan-sa.github.io foi criada para apresentar ideias e soluções que surgem durante o estudo constante que todo desenvolvedor deve fazer para manter-se atualizado e exercer bem suas atividades.
 
 O projeto conterá algumas informações sobre seu criador e dos repositórios no github, além de algumas dicas que valer a pena compartilhar.
 
@@ -11,7 +11,7 @@ Espera-se com essa página web auxiliar outros programadores e entusiastas, assi
 
 ## Developer's personal page
 
-The web page http://renansa.github.io was created to present ideas and solutions that arise during the constant study that every developer must do to keep up to date and exercise their activities well.
+The web page http://renan-sa.github.io was created to present ideas and solutions that arise during the constant study that every developer must do to keep up to date and exercise their activities well.
 
 The project will contain some information about its creator and the repositories on github, as well as some tips that are worth sharing.
 
