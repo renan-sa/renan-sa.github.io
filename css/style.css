@@ -1,0 +1,49 @@
+#jumbotronApresentacao{
+    margin: 5px;
+    padding: 5px 20px;
+    align-items: center;
+}
+
+#jumbotronApresentacao img{
+    margin: 10px;
+    width: 100px;
+    height: 125px;
+    float: right;
+}
+
+#carrosselPrincipal{
+    text-align: center;
+    padding: 10px;
+}
+
+#carrosselPrincipal img{
+    width: 700px;
+    height: 300px;
+}
+
+#scrollpyProjetos .pre-scrollable{
+    height: 250px;
+    position: relative;
+}
+
+#scrollpyProjetos p{
+    margin: 0px;
+}
+
+#jumbotronRodape{
+    margin: 5px;
+    padding: 5px 20px;
+    align-items: center;
+}
+
+.scrollpySessoes{
+    padding: 15px;
+}
+
+.scrollpySessoesImpar{
+    background-color: wheat;
+}
+
+.scrollpySessoesPar{
+    background-color: lavender;
+}
