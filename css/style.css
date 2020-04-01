@@ -1,19 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+.scrollpySessoes{
+    padding: 15px;
+}
+
+.card {
+    font-family: 'Amiri', serif;
+}
+
 #jumbotronApresentacao{
     margin: 5px;
     padding: 5px 20px;
+    display: flex;
     align-items: center;
+    align-content: space-between;
 }
 
 #jumbotronApresentacao img{
     margin: 10px;
     width: 100px;
     height: 125px;
-    float: right;
+}
+
+#jumbotronApresentacao div{
+    align-items: center;
+}
+
+#jumbotronApresentacao blockquote{
+    width: 40%;
+    min-width: 200px;
+    font-size: 18px;
 }
 
 #carrosselPrincipal{
     text-align: center;
     padding: 10px;
+    background-image: radial-gradient(rgb(215, 215, 215), rgb(190, 190, 190), rgb(150, 150, 150), rgb(110, 110, 110), rgb(75, 75, 75));
 }
 
 #carrosselPrincipal img{
@@ -26,24 +48,11 @@
     position: relative;
 }
 
-#scrollpyProjetos p{
-    margin: 0px;
-}
-
 #jumbotronRodape{
     margin: 5px;
-    padding: 5px 20px;
+    padding: 15px 20px;
+    font-size: 18px;
+    display: flex;
     align-items: center;
-}
-
-.scrollpySessoes{
-    padding: 15px;
-}
-
-.scrollpySessoesImpar{
-    background-color: wheat;
-}
-
-.scrollpySessoesPar{
-    background-color: lavender;
+    justify-content: space-between;
 }
